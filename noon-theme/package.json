@@ -1,0 +1,21 @@
+{
+    "name": "noon-theme",
+    "displayName": "noon-theme",
+    "description": "Beautiful, simple and easy on the eyes.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noon Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noon Theme-color-theme.json"
+            }
+        ]
+    }
+}
