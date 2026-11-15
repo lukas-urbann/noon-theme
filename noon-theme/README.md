@@ -1,22 +1,26 @@
-# Noon Theme
+# Red Noon
 
 A VS Code color theme with red accents and calm, high-contrast syntax colors. Beautiful, simple and easy on the eyes.
 
-- **Noon Theme**: deep blue-grey backgrounds.
-- **Noon Light**: dampened light greys around `#ccc`, never pure white.
+- **Red Noon**: deep blue-grey backgrounds.
+- **Red Noon Light**: dampened light greys around `#ccc`, never pure white.
 
 ## Zed
 
-A Zed port of both themes lives in [`../zed`](../zed). It's generated from these themes, so it always matches them.
+Builds live in `output/`:
+
+- `red-noon-1.0.0.vsix`: VS Code.
+- `zed/red-noon.json`: Zed. Copy it to `~/.config/zed/themes/`.
+- `visual-studio/`: Visual Studio. Import `RedNoon-Dark.vssettings` or `RedNoon-Light.vssettings` through Tools > Import and Export Settings for editor colors. `RedNoon.vstheme` holds the shell colors for the Visual Studio Color Theme Editor.
 
 ## Install from source
 
 ```bash
 npx @vscode/vsce package
-code --install-extension noon-theme-1.5.0.vsix
+code --install-extension red-noon-1.0.0.vsix
 ```
 
-Then open **Preferences: Color Theme** and pick **Noon Theme** or **Noon Light**.
+Then open **Preferences: Color Theme** and pick **Red Noon** or **Red Noon Light**.
 
 ## Develop
 

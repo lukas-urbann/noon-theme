@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Themes>
+  <Theme Name="Red Noon" GUID="{06357376-DA6B-56AE-AED1-4B81A695A2E4}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+    <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
+      <Color Name="EnvironmentBackground"><Background Type="CT_RAW" Source="FF22242A"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="ToolWindowBackground"><Background Type="CT_RAW" Source="FF22242A"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="ToolWindowText"><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="ToolWindowBorder"><Background Type="CT_RAW" Source="FF151619"/></Color>
+      <Color Name="PanelBorder"><Background Type="CT_RAW" Source="FF151619"/></Color>
+      <Color Name="TitleBarActive"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="TitleBarInactive"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FF787C94"/></Color>
+      <Color Name="CommandBarGradientBegin"><Background Type="CT_RAW" Source="FF1B1D21"/></Color>
+      <Color Name="CommandBarTextActive"><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="CommandBarMouseOverBackgroundBegin"><Background Type="CT_RAW" Source="FFC24444"/></Color>
+      <Color Name="CommandBarMenuBackgroundGradientBegin"><Background Type="CT_RAW" Source="FF1F2125"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="CommandBarMenuItemMouseOverBackground"><Background Type="CT_RAW" Source="FFCF4A4A"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="CommandBarMenuBorder"><Background Type="CT_RAW" Source="FF303139"/></Color>
+      <Color Name="CommandBarMenuSeparator"><Background Type="CT_RAW" Source="FF303139"/></Color>
+      <Color Name="FileTabSelectedGradientTop"><Background Type="CT_RAW" Source="FF22242A"/><Foreground Type="CT_RAW" Source="FFDCDCDC"/></Color>
+      <Color Name="FileTabInactiveGradientTop"><Background Type="CT_RAW" Source="FF28292F"/><Foreground Type="CT_RAW" Source="FF787C94"/></Color>
+      <Color Name="FileTabHotGradientTop"><Background Type="CT_RAW" Source="FFC24444"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="StatusBarDefault"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="StatusBarBuilding"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="ScrollBarBackground"><Background Type="CT_RAW" Source="FF22242A"/></Color>
+      <Color Name="ScrollBarThumbBackground"><Background Type="CT_RAW" Source="FF464852"/></Color>
+      <Color Name="ScrollBarThumbMouseOverBackground"><Background Type="CT_RAW" Source="FF5D5F6B"/></Color>
+      <Color Name="SearchBoxBackground"><Background Type="CT_RAW" Source="FF191B1E"/><Foreground Type="CT_RAW" Source="FFDCDCDC"/></Color>
+      <Color Name="ComboBoxBackground"><Background Type="CT_RAW" Source="FF303139"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="ButtonDefault"><Background Type="CT_RAW" Source="FFCF4A4A"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="ButtonMouseOver"><Background Type="CT_RAW" Source="FFFF5A5A"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="TreeViewSelectedItemActive"><Background Type="CT_RAW" Source="FF40444F"/><Foreground Type="CT_RAW" Source="FFDCDCDC"/></Color>
+      <Color Name="TreeViewMouseOver"><Background Type="CT_RAW" Source="FFC24444"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="HyperlinkText"><Foreground Type="CT_RAW" Source="FFCF4A4A"/></Color>
+    </Category>
+  </Theme>
+  <Theme Name="Red Noon Light" GUID="{E70C0539-4D25-59B7-AEFA-C43F316F8E63}" FallbackId="{de3dbbcd-f642-433c-8353-8f1df4370aba}">
+    <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
+      <Color Name="EnvironmentBackground"><Background Type="CT_RAW" Source="FFECEEF1"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="ToolWindowBackground"><Background Type="CT_RAW" Source="FFECEEF1"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="ToolWindowText"><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="ToolWindowBorder"><Background Type="CT_RAW" Source="FFCDD0D7"/></Color>
+      <Color Name="PanelBorder"><Background Type="CT_RAW" Source="FFCDD0D7"/></Color>
+      <Color Name="TitleBarActive"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="TitleBarInactive"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF4C505A"/></Color>
+      <Color Name="CommandBarGradientBegin"><Background Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="CommandBarTextActive"><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
+      <Color Name="CommandBarMouseOverBackgroundBegin"><Background Type="CT_RAW" Source="FFE0A0A0"/></Color>
+      <Color Name="CommandBarMenuBackgroundGradientBegin"><Background Type="CT_RAW" Source="FFF5F6F8"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="CommandBarMenuItemMouseOverBackground"><Background Type="CT_RAW" Source="FFA63D3D"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="CommandBarMenuBorder"><Background Type="CT_RAW" Source="FFC4C8D0"/></Color>
+      <Color Name="CommandBarMenuSeparator"><Background Type="CT_RAW" Source="FFC4C8D0"/></Color>
+      <Color Name="FileTabSelectedGradientTop"><Background Type="CT_RAW" Source="FFECEEF1"/><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
+      <Color Name="FileTabInactiveGradientTop"><Background Type="CT_RAW" Source="FFCBCDD2"/><Foreground Type="CT_RAW" Source="FF4C505A"/></Color>
+      <Color Name="FileTabHotGradientTop"><Background Type="CT_RAW" Source="FFE0A0A0"/><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
+      <Color Name="StatusBarDefault"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="StatusBarBuilding"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="ScrollBarBackground"><Background Type="CT_RAW" Source="FFECEEF1"/></Color>
+      <Color Name="ScrollBarThumbBackground"><Background Type="CT_RAW" Source="FF8F939C"/></Color>
+      <Color Name="ScrollBarThumbMouseOverBackground"><Background Type="CT_RAW" Source="FF787C86"/></Color>
+      <Color Name="SearchBoxBackground"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
+      <Color Name="ComboBoxBackground"><Background Type="CT_RAW" Source="FFDADDE3"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="ButtonDefault"><Background Type="CT_RAW" Source="FFA63D3D"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="ButtonMouseOver"><Background Type="CT_RAW" Source="FF8F3434"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="TreeViewSelectedItemActive"><Background Type="CT_RAW" Source="FFC6CAD2"/><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
+      <Color Name="TreeViewMouseOver"><Background Type="CT_RAW" Source="FFE0A0A0"/><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
+      <Color Name="HyperlinkText"><Foreground Type="CT_RAW" Source="FFA63D3D"/></Color>
+    </Category>
+  </Theme>
+</Themes>

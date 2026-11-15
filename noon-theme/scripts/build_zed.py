@@ -1,7 +1,7 @@
 """Ports the generated VS Code themes to a Zed theme family.
 
 Reads themes/noon-color-theme.json and themes/noon-light-color-theme.json and
-writes ../zed/themes/noon.json, so the Zed port always matches the VS Code
+writes output/zed/red-noon.json, so the Zed port always matches the VS Code
 themes. Run it after build.sh (build.sh calls it for you).
 
 Usage: python3 scripts/build_zed.py
@@ -9,7 +9,7 @@ Usage: python3 scripts/build_zed.py
 import json, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(os.path.dirname(ROOT), "zed", "themes", "noon.json")
+OUT = os.path.join(ROOT, "output", "zed", "red-noon.json")
 CLEAR = "#00000000"
 
 
@@ -237,14 +237,14 @@ def main():
     light = json.load(open(os.path.join(ROOT, "themes", "noon-light-color-theme.json")))
     family = {
         "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-        "name": "Noon",
+        "name": "Red Noon",
         "author": "Lukáš Urban",
-        "themes": [convert(dark, "Noon Theme", "dark"), convert(light, "Noon Light", "light")],
+        "themes": [convert(dark, "Red Noon", "dark"), convert(light, "Red Noon Light", "light")],
     }
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w") as f:
         f.write(json.dumps(family, indent=2, ensure_ascii=False) + "\n")
-    print("wrote", os.path.relpath(OUT, os.path.dirname(ROOT)))
+    print("wrote", os.path.relpath(OUT, ROOT))
 
 
 if __name__ == "__main__":

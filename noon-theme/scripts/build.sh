@@ -7,3 +7,4 @@ python3 scripts/build_tokens.py themes/noon-color-theme.json
 python3 scripts/build_colors.py themes/noon-light-color-theme.json --light
 python3 scripts/build_tokens.py themes/noon-light-color-theme.json --light
 python3 scripts/build_zed.py
+python3 scripts/build_vs.py

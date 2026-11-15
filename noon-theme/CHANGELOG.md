@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.0] Red Noon
+
+- Renamed to Red Noon (themes: Red Noon, Red Noon Light) and versioning restarted at 1.0.
+- Softer red accent; red hover on menus, menu bar and lists; reddish text selection.
+- Git colors: green for new files, blue for modified, matching the syntax palette.
+- Less blue tint in the dark theme, more contrast between surfaces in the light theme, orange errors.
+- New ports: Zed and Visual Studio.
+
 ## [1.5.0]
 
 - Ember Apricot syntax colors are 60% more vivid (OKLCH chroma). Lightness is adjusted only where needed to stay displayable and above 4.5:1 contrast. Grey roles (text, punctuation, variables, comments) are unchanged.

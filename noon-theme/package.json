@@ -1,8 +1,8 @@
 {
-    "name": "noon-theme",
-    "displayName": "Noon Theme",
+    "name": "red-noon",
+    "displayName": "Red Noon",
     "description": "Beautiful, simple and easy on the eyes. Dark and dampened-light variants with calm, high-contrast syntax colors.",
-    "version": "1.5.0",
+    "version": "1.0.0",
     "publisher": "lukas-urbann",
     "repository": {
         "type": "git",
@@ -25,12 +25,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Noon Theme",
+                "label": "Red Noon",
                 "uiTheme": "vs-dark",
                 "path": "./themes/noon-color-theme.json"
             },
             {
-                "label": "Noon Light",
+                "label": "Red Noon Light",
                 "uiTheme": "vs",
                 "path": "./themes/noon-light-color-theme.json"
             }

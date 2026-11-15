@@ -3,3 +3,6 @@
 .gitignore
 *.vsix
 scripts/**
+
+output/**
+Code_*.png
