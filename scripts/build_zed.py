@@ -241,10 +241,13 @@ def main():
         "author": "lukas-urbann",
         "themes": [convert(dark, "Red Noon", "dark"), convert(light, "Red Noon Light", "light")],
     }
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w") as f:
-        f.write(json.dumps(family, indent=2, ensure_ascii=False) + "\n")
-    print("wrote", os.path.relpath(OUT, ROOT))
+    text = json.dumps(family, indent=2, ensure_ascii=False) + "\n"
+    # Second copy inside the Zed extension folder (zed/), which is what gets published.
+    for out in (OUT, os.path.join(ROOT, "zed", "themes", "red-noon.json")):
+        os.makedirs(os.path.dirname(out), exist_ok=True)
+        with open(out, "w") as f:
+            f.write(text)
+        print("wrote", os.path.relpath(out, ROOT))
 
 
 if __name__ == "__main__":

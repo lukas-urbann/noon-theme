@@ -1,0 +1,7 @@
+id = "red-noon"
+name = "Red Noon"
+version = "1.0.1"
+schema_version = 1
+authors = ["lukas-urbann"]
+description = "Dark and dampened-light themes with red accents and calm, high-contrast syntax colors."
+repository = "https://github.com/lukas-urbann/noon-theme"

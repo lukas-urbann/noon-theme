@@ -24,7 +24,7 @@ Open the Extensions view, search for **Red Noon**, install it, then open **Prefe
 
 Builds for other editors live in `output/` in the [repository](https://github.com/lukas-urbann/noon-theme):
 
-- `zed/red-noon.json`: Zed. Copy it to `~/.config/zed/themes/`.
+- `zed/red-noon.json`: Zed. Copy it to `~/.config/zed/themes/`, or install the Zed extension from the `zed/` folder.
 - `visual-studio/`: Visual Studio. Import `RedNoon-Dark.vssettings` or `RedNoon-Light.vssettings` through Tools > Import and Export Settings for editor colors. `RedNoon.vstheme` holds the shell colors for the Visual Studio Color Theme Editor.
 
 ## Install from source
