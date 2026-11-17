@@ -7,9 +7,9 @@
       <Color Name="ToolWindowText"><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
       <Color Name="ToolWindowBorder"><Background Type="CT_RAW" Source="FF151619"/></Color>
       <Color Name="PanelBorder"><Background Type="CT_RAW" Source="FF151619"/></Color>
-      <Color Name="TitleBarActive"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
-      <Color Name="TitleBarInactive"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FF787C94"/></Color>
-      <Color Name="CommandBarGradientBegin"><Background Type="CT_RAW" Source="FF1B1D21"/></Color>
+      <Color Name="TitleBarActive"><Background Type="CT_RAW" Source="FF141517"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="TitleBarInactive"><Background Type="CT_RAW" Source="FF141517"/><Foreground Type="CT_RAW" Source="FF787C94"/></Color>
+      <Color Name="CommandBarGradientBegin"><Background Type="CT_RAW" Source="FF141517"/></Color>
       <Color Name="CommandBarTextActive"><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
       <Color Name="CommandBarMouseOverBackgroundBegin"><Background Type="CT_RAW" Source="FFC24444"/></Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin"><Background Type="CT_RAW" Source="FF1F2125"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
@@ -19,8 +19,8 @@
       <Color Name="FileTabSelectedGradientTop"><Background Type="CT_RAW" Source="FF22242A"/><Foreground Type="CT_RAW" Source="FFDCDCDC"/></Color>
       <Color Name="FileTabInactiveGradientTop"><Background Type="CT_RAW" Source="FF28292F"/><Foreground Type="CT_RAW" Source="FF787C94"/></Color>
       <Color Name="FileTabHotGradientTop"><Background Type="CT_RAW" Source="FFC24444"/><Foreground Type="CT_RAW" Source="FFFFFFFF"/></Color>
-      <Color Name="StatusBarDefault"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
-      <Color Name="StatusBarBuilding"><Background Type="CT_RAW" Source="FF1B1D21"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="StatusBarDefault"><Background Type="CT_RAW" Source="FF141517"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
+      <Color Name="StatusBarBuilding"><Background Type="CT_RAW" Source="FF141517"/><Foreground Type="CT_RAW" Source="FFCCCCCC"/></Color>
       <Color Name="ScrollBarBackground"><Background Type="CT_RAW" Source="FF22242A"/></Color>
       <Color Name="ScrollBarThumbBackground"><Background Type="CT_RAW" Source="FF464852"/></Color>
       <Color Name="ScrollBarThumbMouseOverBackground"><Background Type="CT_RAW" Source="FF5D5F6B"/></Color>
@@ -40,9 +40,9 @@
       <Color Name="ToolWindowText"><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
       <Color Name="ToolWindowBorder"><Background Type="CT_RAW" Source="FFCDD0D7"/></Color>
       <Color Name="PanelBorder"><Background Type="CT_RAW" Source="FFCDD0D7"/></Color>
-      <Color Name="TitleBarActive"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
-      <Color Name="TitleBarInactive"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF4C505A"/></Color>
-      <Color Name="CommandBarGradientBegin"><Background Type="CT_RAW" Source="FFFFFFFF"/></Color>
+      <Color Name="TitleBarActive"><Background Type="CT_RAW" Source="FFD3D6DC"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="TitleBarInactive"><Background Type="CT_RAW" Source="FFD3D6DC"/><Foreground Type="CT_RAW" Source="FF4C505A"/></Color>
+      <Color Name="CommandBarGradientBegin"><Background Type="CT_RAW" Source="FFD3D6DC"/></Color>
       <Color Name="CommandBarTextActive"><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
       <Color Name="CommandBarMouseOverBackgroundBegin"><Background Type="CT_RAW" Source="FFE0A0A0"/></Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin"><Background Type="CT_RAW" Source="FFF5F6F8"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
@@ -52,8 +52,8 @@
       <Color Name="FileTabSelectedGradientTop"><Background Type="CT_RAW" Source="FFECEEF1"/><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
       <Color Name="FileTabInactiveGradientTop"><Background Type="CT_RAW" Source="FFCBCDD2"/><Foreground Type="CT_RAW" Source="FF4C505A"/></Color>
       <Color Name="FileTabHotGradientTop"><Background Type="CT_RAW" Source="FFE0A0A0"/><Foreground Type="CT_RAW" Source="FF1A1B1E"/></Color>
-      <Color Name="StatusBarDefault"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
-      <Color Name="StatusBarBuilding"><Background Type="CT_RAW" Source="FFFFFFFF"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="StatusBarDefault"><Background Type="CT_RAW" Source="FFD3D6DC"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
+      <Color Name="StatusBarBuilding"><Background Type="CT_RAW" Source="FFD3D6DC"/><Foreground Type="CT_RAW" Source="FF2B2D31"/></Color>
       <Color Name="ScrollBarBackground"><Background Type="CT_RAW" Source="FFECEEF1"/></Color>
       <Color Name="ScrollBarThumbBackground"><Background Type="CT_RAW" Source="FF8F939C"/></Color>
       <Color Name="ScrollBarThumbMouseOverBackground"><Background Type="CT_RAW" Source="FF787C86"/></Color>

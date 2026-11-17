@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.1]
+
+- Darker tab bar so open tabs stand out, with `#3b3d42` borders between tabs and under the tab bar and file path bar (dark theme).
+- Title bar and status bar share one color, separate from the editor. All window borders use one color.
+- Sticky scroll has a thin bar instead of a dark shadow, and the scroll shadow is gone.
+- Notification popups get a softer blue border. In the light theme the selected activity bar button is clearly darker, with a red marker.
+- Package ready for the Marketplace: icon, MIT license, README with an AI notice and recommended Material icon and product icon extensions.
+- Zed and Visual Studio builds in `output/`.
+
 ## [1.0.0] Red Noon
 
 - Renamed to Red Noon (themes: Red Noon, Red Noon Light) and versioning restarted at 1.0.

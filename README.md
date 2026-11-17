@@ -31,7 +31,7 @@ Builds for other editors live in `output/` in the [repository](https://github.co
 
 ```bash
 npx @vscode/vsce package
-code --install-extension red-noon-1.0.0.vsix
+code --install-extension red-noon-1.0.1.vsix
 ```
 
 ## Develop
