@@ -5,6 +5,8 @@ A color theme with red accents and calm, high-contrast syntax colors. Beautiful,
 - **Red Noon**: dark, with softly tinted neutral-grey backgrounds.
 - **Red Noon Light**: dampened light greys, never pure white.
 
+![Red Noon preview](images/preview.png)
+
 ## A note about AI
 
 I'm sorry to say that AI was used to make this. This is my own personal VS Code theme, which I made about 6 years ago and wanted to revive. I used AI to rebuild and polish it, and I'm uploading it to the Marketplace for myself and my friends. If AI-assisted work isn't your thing, I completely understand.
