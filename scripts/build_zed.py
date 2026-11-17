@@ -238,7 +238,7 @@ def main():
     family = {
         "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
         "name": "Red Noon",
-        "author": "Lukáš Urban",
+        "author": "lukas-urbann",
         "themes": [convert(dark, "Red Noon", "dark"), convert(light, "Red Noon Light", "light")],
     }
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

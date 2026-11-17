@@ -4,9 +4,19 @@
     "description": "Beautiful, simple and easy on the eyes. Dark and dampened-light variants with calm, high-contrast syntax colors.",
     "version": "1.0.0",
     "publisher": "lukas-urbann",
+    "icon": "images/icon.png",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/lukas-urbann/noon-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/lukas-urbann/noon-theme/issues"
+    },
+    "homepage": "https://github.com/lukas-urbann/noon-theme#readme",
+    "galleryBanner": {
+        "color": "#22242a",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.55.0"
@@ -19,8 +29,10 @@
         "dark theme",
         "light theme",
         "color theme",
-        "visual studio",
-        "csharp"
+        "red",
+        "noon",
+        "csharp",
+        "unity"
     ],
     "contributes": {
         "themes": [

@@ -437,7 +437,7 @@
 		"notifications.background": "#1f2125",
 		"notifications.foreground": "#cccccc",
 		"notifications.border": "#303139",
-		"notificationToast.border": "#cf4a4a88",
+		"notificationToast.border": "#8fb0e8",
 		"notificationLink.foreground": "#cf4a4a",
 		"notificationsErrorIcon.foreground": "#ff7a3d",
 		"notificationsWarningIcon.foreground": "#ee9a3a",
